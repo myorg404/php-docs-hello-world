@@ -1,3 +1,6 @@
 <?php
 
-echo "Hello World!";
+echo "Please gumana kana tangina";
+
+
+?>
